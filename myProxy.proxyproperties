@@ -1,5 +1,7 @@
 #Auto-generated Proxy Deployment Properties1
 #Thu Sep 17 10:06:59 EDT 2015
+overwrite=true
+connection.0.type=http
 connection.0.primary.ntlmUser=
 connection.0.primary.keystoreFile=
 connection.0.primary.trustPass=
@@ -7,10 +9,11 @@ connection.0.secondaryServicePort=80
 connection.0.trafficFile=recorded_traffic\\%n_%d_%t.txt
 connection.0.secondary.useNtlm=false
 connection.0.secondaryServicePath=
+connection.0.recordingMode=primary
 server.port=9080
 connection.0.primary.acceptSelfSigned=false
-connection.0.primaryServiceUrl=http\://example.com\:80/testPath
-connection.0.primaryServicePort=80
+connection.0.primaryServiceUrl=http\://example.com\:8080/testPath
+connection.0.primaryServicePort=8080
 connection.0.proxyUser=
 connection.0.appendTraffic=false
 connection.0.primary.trustAllCerts=false
