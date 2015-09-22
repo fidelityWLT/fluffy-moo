@@ -1,4 +1,4 @@
-#Auto-generated Virtual Asset Deployment Properties
+#Auto-generated Virtual Asset Deployment Properties1
 #Thu Sep 17 10:07:05 EDT 2015
 performanceMapping.value.0=<None>
 jms.destination=
@@ -19,7 +19,7 @@ deploy.over.jms=false
 server.useSsl=false
 mq.putQueue=
 mq.putQueueManager=
-server.host=vlrtp415.fmr.com
+server.host=sv-virtualizelb.fmr.com
 mq.local.password=
 mq.local.channel=
 mq.userReplyToQueueNameForResponse=false

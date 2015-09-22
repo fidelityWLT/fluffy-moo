@@ -1,4 +1,4 @@
-#Auto-generated Proxy Deployment Properties1
+#Auto-generated Proxy Deployment Properties
 #Thu Sep 17 10:06:59 EDT 2015
 overwrite=true
 connection.0.type=http
@@ -32,7 +32,7 @@ server.useSsl=false
 connection.0.primary.ntlmPass=
 connection.0.secondaryServiceUrl=http\://\:80
 connection.0.secondary.acceptSelfSigned=false
-server.host=vlrtp411.fmr.com
+server.host=sv-virtualizelb.fmr.com
 connection.0.primaryServiceHost=example.com
 connection.0.primary.useNtlm=false
 connection.0.primary.keystorePass=
