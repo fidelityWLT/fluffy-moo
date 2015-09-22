@@ -1,5 +1,5 @@
 #Auto-generated Virtual Asset Deployment Properties
-#Tue Sep 22 15:14:00 EDT 2015
+#Tue Sep 22 15:25:12 EDT 2015
 jms.local.username=
 server.host=vlrtp411.fmr.com
 server.useSsl=false
@@ -11,6 +11,7 @@ jms.local.initialContext=
 mq.getQueueManager=
 mq.workerCount=1
 jms.destinationSystem=
+mq.local.channel=
 mq.local.port=1414
 deploy.over.mq=false
 jms.local.connectionFactory=
