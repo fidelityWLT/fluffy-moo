@@ -1,0 +1,34 @@
+#Auto-generated Virtual Asset Deployment Properties
+#Tue Sep 22 15:14:00 EDT 2015
+jms.local.username=
+server.host=vlrtp411.fmr.com
+server.useSsl=false
+mq.useReplyToQueueNameForResponse=false
+mq.local.username=
+deployment.path=a575253
+jms.local.providerURL=
+jms.local.initialContext=
+mq.getQueueManager=
+mq.workerCount=1
+jms.destinationSystem=
+mq.local.port=1414
+deploy.over.mq=false
+jms.local.connectionFactory=
+jms.useReplyToHeaderForResponse=false
+mq.local.host=
+jms.replyTo=
+mq.local.queueManager=
+deployment.name=deathupdatestatus
+jms.destination=
+http.path=/deathupdatestatus
+jms.messageSelector=
+jms.replyToSystem=
+mq.messageSelector=
+mq.putQueueManager=
+mq.putQueue=
+jms.local.password=
+server.port=9080
+mq.getQueue=
+jms.workerCount=1
+jms.isPubSub=false
+deploy.over.jms=false
