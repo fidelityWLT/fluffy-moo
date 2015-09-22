@@ -1,7 +1,8 @@
 #Auto-generated Virtual Asset Deployment Properties
-#Tue Sep 22 15:25:12 EDT 2015
+#Tue Sep 22 15:55:03 EDT 2015
+mq.local.password=
 jms.local.username=
-server.host=vlrtp411.fmr.com
+server.host=sv-virtualizelb.fmr.com
 server.useSsl=false
 mq.useReplyToQueueNameForResponse=false
 mq.local.username=
