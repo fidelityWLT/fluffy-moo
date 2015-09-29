@@ -1,5 +1,5 @@
 #Auto-generated Proxy Deployment Properties
-#Tue Sep 29 10:27:14 EDT 2015
+#Tue Sep 29 10:27:14 EDT 2015-mode
 connection.0.type=http
 connection.0.primary.ntlmUser=
 connection.0.primary.keystoreFile=
